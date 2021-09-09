@@ -4,6 +4,10 @@
 - 🌱 I’m currently learning android development 🤣
 - 🥅 i,m Looking for job now 
 - ⚡ i,have intersting in BlockChain technology
+- ⚡ i syrian nationality 
+- ⚡ hard worker 
+- ⚡ Good experience in sales i work currently in perfume shop for 8 hour and spend my night days in learn android development
+- and I am looking for a full time job at android developer
 
 ### Connect with me:
 
