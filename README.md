@@ -6,7 +6,7 @@
 - ⚡ i,have intersting in BlockChain technology
 - ⚡ i syrian nationality 
 - ⚡ hard worker 
-- ⚡ Good experience in sales i work currently in perfume shop for 8 hour and spend my night every day in learn android development
+- ⚡ Good experience in sales 
 - and I am looking for a full time job at android developer
 
 ### Connect with me:
