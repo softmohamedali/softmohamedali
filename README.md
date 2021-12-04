@@ -21,6 +21,7 @@
 
 - kotlin
 - java
+- dart
 - Android
 - Firebase , Cloud firestore ,Firebase Storage
 - android sdk
@@ -32,6 +33,8 @@
 - Live Data
 - Dependency injection (hilt degger)
 - Coroutine
+- getx for flutter
+- bloc for flutter
 - databinding , viewbinding
 - OOP Programing
 - Algorithim
