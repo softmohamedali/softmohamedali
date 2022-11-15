@@ -3,10 +3,8 @@
 
 - 🌱 I’m currently learning android development 🤣
 - 🥅 i,m Looking for job now 
-- ⚡ i,have intersting in BlockChain technology
-- ⚡ i syrian nationality 
+- ⚡ i,have intersting in BlockChain technology ,node js ,data science , security
 - ⚡ hard worker 
-- ⚡ Good experience in sales 
 - and I am looking for a full time job at android developer
 
 ### Connect with me:
