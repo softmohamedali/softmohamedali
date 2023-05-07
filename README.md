@@ -1,5 +1,5 @@
 ### Hi there 👋
-## I'm Mohamed Ali, Android Developer , and Student CS
+## I'm Mohamed Ali, Android Developer , and Cs Student 
 
 - 🌱 I’m currently learning android development 🤣
 - 🥅 i,m Looking for job now 
