@@ -1,5 +1,5 @@
 ### Hi there 👋
-## I'm Mohamed Ali, Android Developer , and Cs Student 
+## I'm Mohamed Ali, Android Developer , and Cs graduated 
 
 - 🌱 I’m currently learning android development 🤣
 - 🥅 i,m Looking for job now 
@@ -41,5 +41,8 @@
 - solid principle 
 - User Interface Design 
 - User Experience (UX)
+- compose multiplatfrom
+- clean architecture
+- TDD
 
 <br />
