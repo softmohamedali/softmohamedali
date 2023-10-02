@@ -1,10 +1,6 @@
 ### Hi there 👋
 ## I'm Mohamed Ali, Android Developer , and Cs graduated 
 
-- 🌱 I’m currently learning android development 🤣
-- 🥅 i,m Looking for job now 
-- ⚡ i,have intersting in BlockChain technology ,node js ,data science , security
-- ⚡ hard worker 
 - and I am looking for a full time job as android developer
 
 ### Connect with me:
