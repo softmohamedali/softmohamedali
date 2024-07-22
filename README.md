@@ -7,7 +7,6 @@
 
 - gmail : soft.mohamedali@gmail.com
 - phone : 01019086737
-- linkedIn: https://www.linkedin.com/in/mohamed-ali-5505331b2
 
 <br />
 
