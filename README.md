@@ -46,10 +46,11 @@ I am passionate about mobile app development and creating efficient, scalable, a
 
 ### 📊 GitHub Stats:
 
-<b>My GitHub Activity</b>
+<b>My GitHub Stats</b>
 
 <a href="http://www.github.com/softmohamedali"><img src="https://github-readme-stats.vercel.app/api?username=softmohamedali&show_icons=true&hide=issues,contribs&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="softmohamedali's GitHub stats" /></a> <br>
 <a href="https://github.com/softmohamedali" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=softmohamedali&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+
 
 ---
 
