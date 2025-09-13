@@ -9,7 +9,6 @@ I am passionate about mobile app development and creating efficient, scalable, a
 ### 📞 Connect with me:
 - **Email**: [soft.mohamedali@gmail.com](mailto:soft.mohamedali@gmail.com)
 - **Phone**: +201019086737
-- **LinkedIn**: [linkedin.com/in/softmohamedali](https://linkedin.com/in/softmohamedali)
 - **GitHub**: [github.com/softmohamedali](https://github.com/softmohamedali)
 
 ---
